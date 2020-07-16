@@ -1,4 +1,4 @@
-console.log(SquareDigits(90024));
+//Square Every Digit
 
 function SquareDigits(num) {
    let createArray = CreateArray(num);
